@@ -52,7 +52,7 @@ Overall, transfers worked quite nicely for complex textures and styles, see belo
 <img src='output/labokube_stylized_moebius_sized.jpg' height="140px">
 </p>
 
-However, we observed that for 'simple' or 'photorealistic' styles, the transfers worked less well. The  color scheme is somewhat retained (but with noticeable changes, as violet colours using the Southpark style), and a blurry surfaces emerge, for example:
+However, we observed that for 'simple' or 'photorealistic' styles, the transfers worked less well. The  color scheme is somewhat retained (but with noticeable changes, as violet colours using the Southpark style), and blurry surfaces emerge, for example:
 
 <p align='center'>
 <img src='input/addedstyle/southpark.jpg' height="140px">
