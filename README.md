@@ -15,7 +15,7 @@ The video below gives an overview of the application. The style image is display
 </p>
 
 <p align='center'>
-<a href="https://www.youtube.com/edit?o=U&video_id=NurRlyOa_A8" target="_blank"><img src="http://img.youtube.com/vi/NurRlyOa_A8/0.jpg"
+<a href="https://www.youtube.com/watch?v=NurRlyOa_A8" target="_blank"><img src="http://img.youtube.com/vi/NurRlyOa_A8/0.jpg"
 alt="Demo" width="480" height="360" border="10" align="center"/></a>
 <br>
 (Click on image above to get to the video)
